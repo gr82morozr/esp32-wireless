@@ -1,0 +1,15 @@
+{
+    "name": "ESP32 Wireless",
+    "version": "0.0.1",
+    "keywords": [
+      "pwm"
+    ],
+    "description": "ESP32 wireless libraries (WLAN, BLE, ESPNow).",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/gr82morozr/esp32-wireless.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
