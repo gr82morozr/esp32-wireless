@@ -2,7 +2,7 @@
     "name": "ESP32 Wireless",
     "version": "0.0.1",
     "keywords": [
-      "pwm"
+      "wifi"
     ],
     "description": "ESP32 wireless libraries (WLAN, BLE, ESPNow).",
     "repository":
